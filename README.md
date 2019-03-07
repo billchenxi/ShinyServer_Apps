@@ -1,3 +1,3 @@
-# ShinyServer
+# ShinyServer App 
 
-This is a test file.
+Drag to the server folder and you can use it!
